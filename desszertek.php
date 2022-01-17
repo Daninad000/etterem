@@ -58,7 +58,7 @@
             <div id="somloigaluska" class="container tab-pane active"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/3 - desszertek/1 - Somlói galuska/somloi_galuska.jpg" class="img-fluid float-end rounded" alt="somloigaluska">
+                        <img src="images/desszertek/Somlói galuska/somloi_galuska.jpg" class="img-fluid float-end rounded" alt="somloigaluska">
                     </div>
         
                     <div class="col-6">
@@ -80,7 +80,7 @@
             <div id="gesztenyepure" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/3 - desszertek/2 - Gesztenyepüré/gesztenyepure-nandi-konyhaja-55.jpg" class="img-fluid float-end rounded" alt="gesztenyepure">
+                        <img src="images/desszertek/Gesztenyepüré/gesztenyepure-nandi-konyhaja-55.jpg" class="img-fluid float-end rounded" alt="gesztenyepure">
                     </div>
         
                     <div class="col-6">
@@ -102,7 +102,7 @@
             <div id="gundelpalacsinta" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/3 - desszertek/3 - Gundel palacsinta/Walnut-crepes-The-Gundel-pancake-2-SunCakeMom.jpg" class="img-fluid float-end rounded" alt="gundelpalacsinta">
+                        <img src="images/desszertek/Gundel palacsinta/Walnut-crepes-The-Gundel-pancake-2-SunCakeMom.jpg" class="img-fluid float-end rounded" alt="gundelpalacsinta">
                     </div>
         
                     <div class="col-6">
@@ -124,7 +124,7 @@
             <div id="turogomboc" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/3 - desszertek/4 - Túrógombóc/Sweet-cottage-cheese-dumpling.jpg" class="img-fluid float-end rounded" alt="turogomboc">
+                        <img src="images/desszertek/Túrógombóc/Sweet-cottage-cheese-dumpling.jpg" class="img-fluid float-end rounded" alt="turogomboc">
                     </div>
         
                     <div class="col-6">
@@ -146,7 +146,7 @@
             <div id="prifiterol" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/3 - desszertek/5 - Prifiterol/gluten-free-profiteroles-recipe-featured.jpg" class="img-fluid float-end rounded" alt="prifiterol">
+                        <img src="images/desszertek/Prifiterol/gluten-free-profiteroles-recipe-featured.jpg" class="img-fluid float-end rounded" alt="prifiterol">
                     </div>
         
                     <div class="col-6">
@@ -168,7 +168,7 @@
             <div id="tiramisu" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/3 - desszertek/6 - Tiramisu/9c56de315348fdcc66f9a7cfba56fe34.jpg" class="img-fluid float-end rounded" alt="tiramisu">
+                        <img src="images/desszertek/Tiramisu/9c56de315348fdcc66f9a7cfba56fe34.jpg" class="img-fluid float-end rounded" alt="tiramisu">
                     </div>
         
                     <div class="col-6">

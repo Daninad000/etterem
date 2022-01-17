@@ -58,7 +58,7 @@
             <div id="csonakburgonya" class="container tab-pane active"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/2 - koretek/1 - Csónakburgonya/plate-of-sweet-potato-wedges.jpg" class="img-fluid float-end rounded" alt="csonakburgonya">
+                        <img src="images/koretek/Csónakburgonya/plate-of-sweet-potato-wedges.jpg" class="img-fluid float-end rounded" alt="csonakburgonya">
                     </div>
         
                     <div class="col-6">
@@ -80,7 +80,7 @@
             <div id="edesburgonya" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/2 - koretek/2 - Édesburgonya/P9294510.jpg" class="img-fluid float-end rounded" alt="edesburgonya">
+                        <img src="images/koretek/Édesburgonya/P9294510.jpg" class="img-fluid float-end rounded" alt="edesburgonya">
                     </div>
         
                     <div class="col-6">
@@ -102,7 +102,7 @@
             <div id="rantotthagymakarika" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/2 - koretek/3 - Rántott hagymakarikák/keto-onion-rings-1200.jpg" class="img-fluid float-end rounded" alt="rantotthagymakarika">
+                        <img src="images/koretek/Rántott hagymakarikák/keto-onion-rings-1200.jpg" class="img-fluid float-end rounded" alt="rantotthagymakarika">
                     </div>
         
                     <div class="col-6">
@@ -124,7 +124,7 @@
             <div id="chips" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/2 - koretek/4 - Chips/photo-1528751014936-863e6e7a319c.jpeg" class="img-fluid float-end rounded" alt="chips">
+                        <img src="images/koretek/Chips/photo-1528751014936-863e6e7a319c.jpeg" class="img-fluid float-end rounded" alt="chips">
                     </div>
         
                     <div class="col-6">
@@ -146,7 +146,7 @@
             <div id="philadelphiasajtgolyo" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/2 - koretek/5 - Philadelphia sajtgolyók/7b499f9be29b4ca01a937df93e9e2200.jpg" class="img-fluid float-end rounded" alt="philadelphiasajtgolyo">
+                        <img src="images/koretek/Philadelphia sajtgolyók/7b499f9be29b4ca01a937df93e9e2200.jpg" class="img-fluid float-end rounded" alt="philadelphiasajtgolyo">
                     </div>
         
                     <div class="col-6">
@@ -168,7 +168,7 @@
             <div id="mozzarellasajtgolyo" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/2 - koretek/6 - Mozzarella sajtgolyók/maxresdefault.jpg" class="img-fluid float-end rounded" alt="mozzarellasajtgolyo">
+                        <img src="images/koretek/Mozzarella sajtgolyók/maxresdefault.jpg" class="img-fluid float-end rounded" alt="mozzarellasajtgolyo">
                     </div>
         
                     <div class="col-6">

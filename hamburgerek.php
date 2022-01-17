@@ -61,7 +61,7 @@
                 <div class="row p-2 m-3">
                     <div class="col-sm-6">
                         <div class="text-center">
-                            <img src="images/1 - burgerek/1 - Sajtburger/klipartz.com.png" class="img-fluid w-100 rounded" alt="sajtburger">
+                            <img src="images/burgerek/Sajtburger/klipartz.com.png" class="img-fluid w-100 rounded" alt="sajtburger">
                         </div>
                     </div>
         
@@ -85,7 +85,7 @@
                 <div class="row p-2 m-3">
                     <div class="col-sm-6">
                         <div class="text-center">
-                            <img src="images/1 - burgerek/2 - Pusztaburger/mps.2012.feature.jpg" class="img-fluid w-100 rounded" alt="pusztaburger">
+                            <img src="images/burgerek/Pusztaburger/mps.2012.feature.jpg" class="img-fluid w-100 rounded" alt="pusztaburger">
                         </div>
                     </div>
         
@@ -108,7 +108,7 @@
             <div id="beerburger" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-sm-6">
-                        <img src="images/1 - burgerek/3 - Beerburger/burger-black-background-menu_127425-584.png" class="img-fluid float-end rounded" alt="beerburger">
+                        <img src="images/burgerek/Beerburger/burger-black-background-menu_127425-584.png" class="img-fluid float-end rounded" alt="beerburger">
                     </div>
         
                     <div class="col-sm-6">
@@ -130,7 +130,7 @@
             <div id="jalapenoburger" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-sm-6">
-                        <img src="images/1 - burgerek/4 - Jalapeno burger/Jalapeno-Bacon-Burger.png" class="img-fluid float-end rounded" alt="jalapenoburger">
+                        <img src="images/burgerek/Jalapeno burger/Jalapeno-Bacon-Burger.png" class="img-fluid float-end rounded" alt="jalapenoburger">
                     </div>
         
                     <div class="col-sm-6">
@@ -152,7 +152,7 @@
             <div id="cheese4youburger" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-sm-6">
-                        <img src="images/1 - burgerek/5 - Chees4You burger/Double-Cheeseburger-1.jpg" class="img-fluid float-end rounded" alt="cheese4youburger">
+                        <img src="images/burgerek/Cheese4You burger/Double-Cheeseburger-1.jpg" class="img-fluid float-end rounded" alt="cheese4youburger">
                     </div>
         
                     <div class="col-sm-6">
@@ -174,7 +174,7 @@
             <div id="kentuckyburger" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-sm-6">
-                        <img src="images/1 - burgerek/6 - Kentucky burger/15943623395f0809e3de053.jpg" class="img-fluid float-end rounded" alt="kentuckyburger">
+                        <img src="images/burgerek/Kentucky burger/15943623395f0809e3de053.jpg" class="img-fluid float-end rounded" alt="kentuckyburger">
                     </div>
         
                     <div class="col-sm-6">

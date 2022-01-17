@@ -58,7 +58,7 @@
             <div id="cocacola" class="container tab-pane active"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/4 - italok/1 - Coca-Cola/76-765067_coke-zero-sugar-glass-bottle.jpeg" class="img-fluid float-end rounded" alt="cocacola">
+                        <img src="images/italok/Coca-Cola/76-765067_coke-zero-sugar-glass-bottle.jpeg" class="img-fluid float-end rounded" alt="cocacola">
                     </div>
         
                     <div class="col-6">
@@ -80,7 +80,7 @@
             <div id="cocacolazero" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/4 - italok/2 - Coca-Cola Zero/istockphoto-458428285-612x612.jpg" class="img-fluid float-end rounded" alt="cocacolazero">
+                        <img src="images/italok/Coca-Cola Zero/istockphoto-458428285-612x612.jpg" class="img-fluid float-end rounded" alt="cocacolazero">
                     </div>
         
                     <div class="col-6">
@@ -102,7 +102,7 @@
             <div id="fanta" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/4 - italok/3 - Fanta/381717001_fanta-orange-330ml_temp.jpg" class="img-fluid float-end rounded" alt="fanta">
+                        <img src="images/italok/Fanta/381717001_fanta-orange-330ml_temp.jpg" class="img-fluid float-end rounded" alt="fanta">
                     </div>
         
                     <div class="col-6">
@@ -124,7 +124,7 @@
             <div id="kinleytonic" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/4 - italok/4 - Kinley Tonic/795451515.kinley-tonic-uveges-0-25l.jpg" class="img-fluid float-end rounded" alt="kinleytonic">
+                        <img src="images/italok/Kinley Tonic/795451515.kinley-tonic-uveges-0-25l.jpg" class="img-fluid float-end rounded" alt="kinleytonic">
                     </div>
         
                     <div class="col-6">
@@ -146,7 +146,7 @@
             <div id="fuzeteabarackos" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/4 - italok/5 - Fuzetea Barackos/Fuzetea-05-l-őszibarack-hibiszkusz-ízű-full.png" class="img-fluid float-end rounded" alt="fuzeteabarackos">
+                        <img src="images/italok/Fuzetea Barackos/Fuzetea-05-l-őszibarack-hibiszkusz-ízű-full.png" class="img-fluid float-end rounded" alt="fuzeteabarackos">
                     </div>
         
                     <div class="col-6">
@@ -168,7 +168,7 @@
             <div id="fuzeteacitromos" class="container tab-pane fade"><br>
                 <div class="row p-2 m-3">
                     <div class="col-6">
-                        <img src="images/4 - italok/6 - Fuzetea Citromos/fuzetea-citrom.png" class="img-fluid float-end rounded" alt="fuzeteacitromos">
+                        <img src="images/italok/Fuzetea Citromos/fuzetea-citrom.png" class="img-fluid float-end rounded" alt="fuzeteacitromos">
                     </div>
         
                     <div class="col-6">
